@@ -27,7 +27,7 @@ Step 3 :- Connect to a VPN server (choose any location).
 
  Step 4 :- Verify my IP address has changed
 
- ##### IP Address before VPN connection
+ ##### IP Address before VPN connection 
 
 ![Ipaddressbeforevpn](Screenshot/Ipaddressbeforevpn.png)
 
