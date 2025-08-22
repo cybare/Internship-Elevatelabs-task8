@@ -40,5 +40,73 @@ Step 3 :- Connect to a VPN server (choose any location).
 ![whatismyip](Screenshot/whatismyip.png)
 
  Step 5:- Research VPN encryption and privacy features.
+
+ ##### 1. Encryption
+
+###### AES-256 (Advanced Encryption Standard)
+
+- Most modern VPNs use AES-256-bit encryption, considered military-grade.
+
+- It protects your data by scrambling it into unreadable ciphertext.
+
+- Even with brute-force attacks, it would take billions of years to crack.
+
+###### ChaCha20 Encryption (modern alternative)
+
+- Used by some VPNs with the WireGuard protocol.
+
+- Faster and more lightweight than AES, suitable for mobile devices.
+
+##### 2. VPN Protocols (Tunnels for Encryption)
+
+###### OpenVPN
+
+- Open-source, highly secure, supports AES-256 encryption.
+
+- Works on UDP (faster) or TCP (more reliable).
+
+###### WireGuard
+
+- Modern, lightweight, faster, and uses ChaCha20 encryption.
+
+_ Strong forward secrecy (new keys for each session).
+
+###### IKEv2/IPSec
+
+- Stable and great for mobile networks.
+
+- Automatically reconnects if the connection drops.
+
+##### 3. Privacy Features
+
+###### No-Logs Policy
+
+- A good VPN provider does not record your browsing history, IP addresses, or activity.
+
+- Some providers have been audited to prove this.
+
+IP Masking
+
+VPN replaces your real IP address with one from the VPN server.
+
+Hides your location and identity from websites.
+
+DNS Leak Protection
+
+Prevents your ISP or third parties from seeing your DNS requests.
+
+Without it, even if traffic is encrypted, your DNS lookups might expose visited websites.
+
+Kill Switch
+
+If the VPN connection drops, internet access is blocked automatically.
+
+Prevents accidental exposure of your real IP.
+
+Split Tunneling
+
+Lets you choose which apps use the VPN and which use the normal internet.
+
+Useful for streaming or banking.
  
  Step 6:- Write a summary on VPN benefits and limitations
