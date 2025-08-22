@@ -33,7 +33,7 @@ Step 3 :- Connect to a VPN server (choose any location).
 
 ##### IP Address after VPN connection
 
-![Ipaddressaftervpn](Screenshot/Ipaddressaftervpn.png)
+![ipaddressaftervpn](Screenshot/ipaddressaftervpn.png)
 
 ##### Use what is my IP address
 
