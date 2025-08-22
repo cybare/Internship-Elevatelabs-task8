@@ -25,8 +25,19 @@ Step 3 :- Connect to a VPN server (choose any location).
 
 ![locationset](Screenshot/Locationset.png)
 
- Step 4 :- Verify my IP address has changed (use whatismyipaddress.com).
+ Step 4 :- Verify my IP address has changed
 
+ ##### IP Address before VPN connection
+
+![Ipaddressbeforevpn](Screenshot/Ipaddressbeforevpn.png)
+
+##### IP Address after VPN connection
+
+![Ipaddressaftervpn](Screenshot/Ipaddressaftervpn.png)
+
+##### Use what is my IP address
+
+![whatismyip](Screenshot/whatismyip.png)
 
  Step 5:- Research VPN encryption and privacy features.
  
